@@ -1,0 +1,1 @@
+Tahap mengabung simpleframework (http server) dengan soap request to myidtravel ( FOR INTEGRATION TEST )
